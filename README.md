@@ -15,12 +15,19 @@ Implemented the following features as part of Weenix:
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/46cb9d60-40d1-40ea-8329-4dbd1c6a287a)
+<p align="center">
 Running Weenix
+</p>
 
 ![image](https://github.com/user-attachments/assets/528e8fb6-e827-4a9f-846e-a6338066f44a)
+<p align="center">
 Fork-and-wait test
+</p>
+
 ![image](https://github.com/user-attachments/assets/606eea81-07f1-4adf-9b1a-776c3e225d48)
+<p align="center">
 VFS test
+</p>
 
 
 
